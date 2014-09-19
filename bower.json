@@ -1,13 +1,13 @@
 {
-  "author": "Witold Szczerba",
-  "name": "angular-http-auth",
+  "author": "Witold Szczerba extended by Davinci Studio",
+  "name": "angular-status-code-interceptor",
   "version": "1.2.1",
-  "homepage": "https://github.com/witoldsz/angular-http-auth",
+  "homepage": "https://github.com/davinci-studio/angular-status-code-interceptor",
   "repository": {
     "type": "git",
-    "url": "git://github.com/witoldsz/angular-http-auth.git"
+    "url": "git://github.com/davinci-studio/angular-status-code-interceptor.git"
   },
-  "main": "./src/http-auth-interceptor.js",
+  "main": "./src/http-status-code-interceptor.js",
   "dependencies": {
     "angular": "^1.2"
   }
